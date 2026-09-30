@@ -1,0 +1,9 @@
+Course: Machine Learning
+Institution: Universal
+Level: Undergraduate & Postgraduate
+Unit: Unit 1 - Foundations of Machine Learning
+
+Syllabus Scope:
+- Learning paradigms: Supervised Learning, Unsupervised Learning, Reinforcement Learning.
+- Model validation: Bias-Variance tradeoff, Overfitting, Regularization (L1 Lasso, L2 Ridge), Cross-validation.
+- Evaluation metrics: Precision, Recall, F1-Score, ROC-AUC curve.

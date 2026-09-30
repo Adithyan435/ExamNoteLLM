@@ -1,0 +1,11 @@
+Course: Operating Systems
+Institution: Universal
+Level: Undergraduate
+Unit: Unit 2 - Process Scheduling and Deadlocks
+
+Syllabus Scope:
+- Process Control Block (PCB), Context switching mechanism, Process states.
+- CPU Scheduling algorithms: FCFS, SJF (Preemptive SRTF), Round Robin, Priority Scheduling, Multilevel Queue.
+- Deadlock characterization: 4 Coffman conditions (Mutual Exclusion, Hold and Wait, No Preemption, Circular Wait).
+- Resource Allocation Graphs (RAG).
+- Deadlock Avoidance: Banker's Algorithm (Safety algorithm and Resource-Request algorithm).

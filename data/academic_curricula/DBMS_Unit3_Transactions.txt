@@ -1,0 +1,15 @@
+Course: Database Management Systems (DBMS)
+Institution: Anna University / Universal
+Level: Undergraduate
+Unit: Unit 3 - Transactions and Concurrency Control
+
+Syllabus Scope:
+- Transaction concept, Transaction state diagram (Active, Partially Committed, Failed, Aborted, Committed).
+- ACID Properties:
+  * Atomicity: All or nothing execution, recovery via Write-Ahead Logging (WAL) and undo logs.
+  * Consistency: Preserving integrity constraints across transaction commits.
+  * Isolation: Concurrency control, serializability, intermediate states hidden.
+  * Durability: Committed updates survive system failure using redo logs.
+- Serializability: Conflict Serializability, Precedence Graphs, View Serializability.
+- Concurrency Control Protocols: Lock-based protocols (2-Phase Locking - Basic, Strict, Rigorous), Timestamp ordering, Multiversion protocols.
+- Deadlocks: Deadlock detection via Wait-For Graphs (WFG), Deadlock prevention (Wait-Die, Wound-Wait).
